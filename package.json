@@ -1,0 +1,19 @@
+{
+  "name": "question3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "got": "^11.8.1",
+    "node-html-parser": "^2.0.1",
+    "tough-cookie": "^4.0.0",
+    "util": "^0.12.3"
+  }
+}
